@@ -3,6 +3,7 @@ groups:
 recipes:
     mac_os_x:
         - osxdefaults::set_computer_name
+        - macapps::vlc
 attributes:
     osxdefaults:
         computername: drewtopian
