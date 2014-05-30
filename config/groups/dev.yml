@@ -3,6 +3,7 @@ groups:
 recipes:
     mac_os_x:
         - osxdefaults::set_terminal_profile
+        - applications::sublime_text_3
 attributes:
     homebrewalt:
         apps:
