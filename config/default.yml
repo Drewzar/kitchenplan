@@ -10,6 +10,7 @@ recipes:
         - macapps::spotify
         - macapps::vagrant
         - macapps::virtualbox
+        - hipchat_client::_mac_osx_x
 attributes:
     homebrewalt:
         apps:

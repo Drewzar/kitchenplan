@@ -10,3 +10,4 @@ cookbook "sudoalt",               :github => "kitchenplan/chef-sudoalt",        
 cookbook "dmg",                   :github => "opscode-cookbooks/dmg",           :ref => "v2.1.4"
 cookbook "composer",              :github => "kitchenplan/chef-composer",       :ref => "v1.0"
 cookbook "macapps",               :github => "chef-osx/macapps",                :ref => "v1.0.2"
+cookbook "hipchat_client",        :github => "urbandecoder/hipchat_client",     :ref => "v1.1.4"
