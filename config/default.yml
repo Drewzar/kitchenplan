@@ -3,7 +3,7 @@ recipes:
         - applications::create_var_chef_cache
     mac_os_x:
         - homebrewalt::default
-                - nodejs::default
+        - nodejs::default
         - osxdefaults::set_screensaver_preferences
         - macapps::caffeine
         - macapps::dropbox
